@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+   <test name="Add Nursery Test" >
+    <classes>
+      <class name="com.bounceadmin.testscript.AddNursery">
+      </class>
+    </classes>
+  </test>
+   
+  <test name="Add Staff Test" >
+    <classes>
+      <class name="com.bounceadmin.testscript.AddStaff">
+      </class>
+    </classes>
+  </test>
+</suite>

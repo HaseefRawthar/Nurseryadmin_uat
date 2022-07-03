@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T17:11:36 IST" name="Suite" finished-at="2022-01-23T17:16:32 IST" duration-ms="296089">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T17:11:36 IST" name="Add Nursery Test" finished-at="2022-01-23T17:14:56 IST" duration-ms="200272">
+      <class name="com.bounceadmin.testscript.AddNursery">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:36 IST" name="initialize" finished-at="2022-01-23T17:11:42 IST" duration-ms="5592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyMandatoryMsgVisibleWithoutOnlinePayment()[pri:1, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:42 IST" name="verifyMandatoryMsgVisibleWithoutOnlinePayment" finished-at="2022-01-23T17:11:49 IST" duration-ms="7012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMandatoryMsgVisibleWithoutOnlinePayment -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:49 IST" name="testReportResult" finished-at="2022-01-23T17:11:49 IST" duration-ms="352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMandatoryMsgVisibleWithoutOnlinePayment status=SUCCESS method=AddNursery.verifyMandatoryMsgVisibleWithoutOnlinePayment()[pri:1, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="verifyMandatoryMsgVisibleWithOnlinePayment()[pri:2, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:49 IST" name="verifyMandatoryMsgVisibleWithOnlinePayment" finished-at="2022-01-23T17:11:54 IST" duration-ms="5373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMandatoryMsgVisibleWithOnlinePayment -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:54 IST" name="testReportResult" finished-at="2022-01-23T17:11:55 IST" duration-ms="305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMandatoryMsgVisibleWithOnlinePayment status=SUCCESS method=AddNursery.verifyMandatoryMsgVisibleWithOnlinePayment()[pri:2, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="verifyMandatoryMsgVisibleForOwner()[pri:3, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:55 IST" name="verifyMandatoryMsgVisibleForOwner" finished-at="2022-01-23T17:11:57 IST" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMandatoryMsgVisibleForOwner -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:57 IST" name="testReportResult" finished-at="2022-01-23T17:11:57 IST" duration-ms="271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMandatoryMsgVisibleForOwner status=SUCCESS method=AddNursery.verifyMandatoryMsgVisibleForOwner()[pri:3, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="verifyAddNurserywithMnadatoryOnly()[pri:4, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:11:57 IST" name="verifyAddNurserywithMnadatoryOnly" finished-at="2022-01-23T17:12:20 IST" duration-ms="22734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddNurserywithMnadatoryOnly -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:12:20 IST" name="testReportResult" finished-at="2022-01-23T17:12:20 IST" duration-ms="229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddNurserywithMnadatoryOnly status=SUCCESS method=AddNursery.verifyAddNurserywithMnadatoryOnly()[pri:4, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="verifyAddNurserywithAllFieldsWithOutOnlinePayment()[pri:5, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:12:20 IST" name="verifyAddNurserywithAllFieldsWithOutOnlinePayment" finished-at="2022-01-23T17:12:57 IST" duration-ms="37056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddNurserywithAllFieldsWithOutOnlinePayment -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:12:57 IST" name="testReportResult" finished-at="2022-01-23T17:12:57 IST" duration-ms="200" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddNurserywithAllFieldsWithOutOnlinePayment status=SUCCESS method=AddNursery.verifyAddNurserywithAllFieldsWithOutOnlinePayment()[pri:5, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="AddNurseryWithOnlinePayment()[pri:6, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:12:57 IST" name="AddNurseryWithOnlinePayment" finished-at="2022-01-23T17:13:27 IST" duration-ms="29980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNurseryWithOnlinePayment -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:13:27 IST" name="testReportResult" finished-at="2022-01-23T17:13:28 IST" duration-ms="279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddNurseryWithOnlinePayment status=SUCCESS method=AddNursery.AddNurseryWithOnlinePayment()[pri:6, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="verifyAddNurserywithAllFieldsWithOnlinePayment()[pri:7, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:13:28 IST" name="verifyAddNurserywithAllFieldsWithOnlinePayment" finished-at="2022-01-23T17:14:13 IST" duration-ms="45746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddNurserywithAllFieldsWithOnlinePayment -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:14:13 IST" name="testReportResult" finished-at="2022-01-23T17:14:14 IST" duration-ms="252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddNurserywithAllFieldsWithOnlinePayment status=SUCCESS method=AddNursery.verifyAddNurserywithAllFieldsWithOnlinePayment()[pri:7, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="listandViewNurseryDetails()[pri:8, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:14:14 IST" name="listandViewNurseryDetails" finished-at="2022-01-23T17:14:34 IST" duration-ms="20507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listandViewNurseryDetails -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:14:34 IST" name="testReportResult" finished-at="2022-01-23T17:14:34 IST" duration-ms="240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=listandViewNurseryDetails status=SUCCESS method=AddNursery.listandViewNurseryDetails()[pri:8, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="editNursery()[pri:9, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:14:34 IST" name="editNursery" finished-at="2022-01-23T17:14:55 IST" duration-ms="20755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editNursery -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:14:55 IST" name="testReportResult" finished-at="2022-01-23T17:14:55 IST" duration-ms="232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editNursery status=SUCCESS method=AddNursery.editNursery()[pri:9, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method is-config="true" signature="signOt()[pri:0, instance:com.bounceadmin.testscript.AddNursery@2cd2a21f]" started-at="2022-01-23T17:14:55 IST" name="signOt" finished-at="2022-01-23T17:14:56 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOt -->
+      </class> <!-- com.bounceadmin.testscript.AddNursery -->
+    </test> <!-- Add Nursery Test -->
+    <test started-at="2022-01-23T17:14:56 IST" name="Add Staff Test" finished-at="2022-01-23T17:16:32 IST" duration-ms="95767">
+      <class name="com.bounceadmin.testscript.AddStaff">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:11:29 IST" name="start" finished-at="2022-01-23T17:11:36 IST" duration-ms="6630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:14:56 IST" name="initialize" finished-at="2022-01-23T17:15:01 IST" duration-ms="4411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyMandatoryMsg()[pri:1, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:01 IST" name="verifyMandatoryMsg" finished-at="2022-01-23T17:15:06 IST" duration-ms="5197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMandatoryMsg -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:06 IST" name="testReportResult" finished-at="2022-01-23T17:15:06 IST" duration-ms="332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMandatoryMsg status=SUCCESS method=AddStaff.verifyMandatoryMsg()[pri:1, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsBounceAdmin()[pri:2, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:06 IST" name="addStaffAsBounceAdmin" finished-at="2022-01-23T17:15:15 IST" duration-ms="9193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsBounceAdmin -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:15 IST" name="testReportResult" finished-at="2022-01-23T17:15:16 IST" duration-ms="313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsBounceAdmin status=SUCCESS method=AddStaff.addStaffAsBounceAdmin()[pri:2, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsCustomerSupportAgent()[pri:3, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:16 IST" name="addStaffAsCustomerSupportAgent" finished-at="2022-01-23T17:15:27 IST" duration-ms="11214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsCustomerSupportAgent -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:27 IST" name="testReportResult" finished-at="2022-01-23T17:15:27 IST" duration-ms="306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsCustomerSupportAgent status=SUCCESS method=AddStaff.addStaffAsCustomerSupportAgent()[pri:3, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsSupportAgent()[pri:4, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:27 IST" name="addStaffAsSupportAgent" finished-at="2022-01-23T17:15:38 IST" duration-ms="10663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsSupportAgent -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:38 IST" name="testReportResult" finished-at="2022-01-23T17:15:38 IST" duration-ms="226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsSupportAgent status=SUCCESS method=AddStaff.addStaffAsSupportAgent()[pri:4, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsTestAdmin()[pri:5, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:38 IST" name="addStaffAsTestAdmin" finished-at="2022-01-23T17:15:48 IST" duration-ms="10017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsTestAdmin -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:48 IST" name="testReportResult" finished-at="2022-01-23T17:15:48 IST" duration-ms="241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsTestAdmin status=SUCCESS method=AddStaff.addStaffAsTestAdmin()[pri:5, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsSupportAdmin()[pri:6, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:48 IST" name="addStaffAsSupportAdmin" finished-at="2022-01-23T17:15:59 IST" duration-ms="10239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsSupportAdmin -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:59 IST" name="testReportResult" finished-at="2022-01-23T17:15:59 IST" duration-ms="189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsSupportAdmin status=SUCCESS method=AddStaff.addStaffAsSupportAdmin()[pri:6, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsSupportAgentAssistant()[pri:7, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:15:59 IST" name="addStaffAsSupportAgentAssistant" finished-at="2022-01-23T17:16:09 IST" duration-ms="9915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsSupportAgentAssistant -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:09 IST" name="testReportResult" finished-at="2022-01-23T17:16:09 IST" duration-ms="262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsSupportAgentAssistant status=SUCCESS method=AddStaff.addStaffAsSupportAgentAssistant()[pri:7, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffAsFinance()[pri:8, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:09 IST" name="addStaffAsFinance" finished-at="2022-01-23T17:16:19 IST" duration-ms="10462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffAsFinance -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:19 IST" name="testReportResult" finished-at="2022-01-23T17:16:20 IST" duration-ms="367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffAsFinance status=SUCCESS method=AddStaff.addStaffAsFinance()[pri:8, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method signature="addStaffWithMultiRoles()[pri:9, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:20 IST" name="addStaffWithMultiRoles" finished-at="2022-01-23T17:16:31 IST" duration-ms="11036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStaffWithMultiRoles -->
+        <test-method is-config="true" signature="testReportResult(org.testng.ITestResult)[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:31 IST" name="testReportResult" finished-at="2022-01-23T17:16:31 IST" duration-ms="228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addStaffWithMultiRoles status=SUCCESS method=AddStaff.addStaffWithMultiRoles()[pri:9, instance:com.bounceadmin.testscript.AddStaff@48974e45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReportResult -->
+        <test-method is-config="true" signature="signOt()[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:31 IST" name="signOt" finished-at="2022-01-23T17:16:32 IST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bounceadmin.testscript.AddStaff@48974e45]" started-at="2022-01-23T17:16:32 IST" name="tearDown" finished-at="2022-01-23T17:16:33 IST" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bounceadmin.testscript.AddStaff -->
+    </test> <!-- Add Staff Test -->
+  </suite> <!-- Suite -->
+</testng-results>
